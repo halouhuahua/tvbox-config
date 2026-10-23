@@ -1,6 +1,6 @@
 {
-  "spider": "https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/jar/tvbox.txt;md5;265301f463ec681dcbba91897f20f08b",
-  "logo": "https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/logo.png",
+  "spider": "https://fastly.jsdelivr.net/gh/2hacc/TVBox@main/jar/tvbox.txt;md5;265301f463ec681dcbba91897f20f08b",
+  "logo": "https://fastly.jsdelivr.net/gh/2hacc/TVBox@main/logo.png",
   "lives": [
     {
       "name": "IPV4",
